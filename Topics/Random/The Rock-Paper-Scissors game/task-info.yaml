@@ -1,0 +1,18 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    import kotlin.random.Random
+
+    fun makeDecision(): String {
+        // write here
+
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20619#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 02 Dec 2022 17:49:59 UTC"
+record: -1

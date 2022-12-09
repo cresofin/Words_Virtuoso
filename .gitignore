@@ -1,0 +1,19 @@
+# Project exclude paths
+/.gradle/
+/Topics/Commonly Used Regex/First (and) last name/out/
+/Topics/Commonly Used Regex/First (and) last name/out/production/classes/
+/Topics/Commonly Used Regex/Pa/out/
+/Topics/Commonly Used Regex/Pa/out/production/classes/
+/Topics/Commonly Used Regex/Password validation/out/
+/Topics/Commonly Used Regex/Password validation/out/production/classes/
+/Topics/For loop and arrays/Check the numbers/out/
+/Topics/For loop and arrays/Check the numbers/out/production/classes/
+/Topics/For loop and arrays/Is it here/out/
+/Topics/For loop and arrays/Is it here/out/production/classes/
+/Topics/Regexps in use/Nickname parser/out/
+/Topics/Regexps in use/Nickname parser/out/production/classes/
+/Topics/Regexps in use/Splitting with spaces/out/
+/Topics/Regexps in use/Splitting with spaces/out/production/classes/
+/Words Virtuoso/task/build/
+/Words Virtuoso/task/out/
+/Words Virtuoso/task/out/production/classes/
